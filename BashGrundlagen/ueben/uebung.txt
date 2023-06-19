@@ -1,0 +1,12 @@
+
+Ping wird ausgefÅhrt fÅr www.google.com [216.58.215.228] mit 32 Bytes Daten:
+Antwort von 216.58.215.228: Bytes=32 Zeit=3ms TTL=112
+Antwort von 216.58.215.228: Bytes=32 Zeit=4ms TTL=112
+Antwort von 216.58.215.228: Bytes=32 Zeit=4ms TTL=112
+Antwort von 216.58.215.228: Bytes=32 Zeit=3ms TTL=112
+
+Ping-Statistik fÅr 216.58.215.228:
+    Pakete: Gesendet = 4, Empfangen = 4, Verloren = 0
+    (0% Verlust),
+Ca. Zeitangaben in Millisek.:
+    Minimum = 3ms, Maximum = 4ms, Mittelwert = 3ms

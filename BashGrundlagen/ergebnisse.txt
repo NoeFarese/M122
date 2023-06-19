@@ -1,0 +1,46 @@
+
+Windows-IP-Konfiguration
+
+   Hostname  . . . . . . . . . . . . : W10-WORK
+   PrimÑres DNS-Suffix . . . . . . . : 
+   Knotentyp . . . . . . . . . . . . : Hybrid
+   IP-Routing aktiviert  . . . . . . : Nein
+   WINS-Proxy aktiviert  . . . . . . : Nein
+   DNS-Suffixsuchliste . . . . . . . : labor.local
+
+Ethernet-Adapter Ethernet:
+
+   Verbindungsspezifisches DNS-Suffix: labor.local
+   Beschreibung. . . . . . . . . . . : Intel(R) PRO/1000 MT Desktop Adapter
+   Physische Adresse . . . . . . . . : 08-00-27-F6-6D-BB
+   DHCP aktiviert. . . . . . . . . . : Ja
+   Autokonfiguration aktiviert . . . : Ja
+   Verbindungslokale IPv6-Adresse  . : fe80::de1b:4090:7781:5f8d%6(Bevorzugt) 
+   IPv4-Adresse  . . . . . . . . . . : 10.0.2.15(Bevorzugt) 
+   Subnetzmaske  . . . . . . . . . . : 255.255.255.0
+   Lease erhalten. . . . . . . . . . : Montag, 30. Januar 2023 13:03:11
+   Lease lÑuft ab. . . . . . . . . . : Dienstag, 31. Januar 2023 13:03:13
+   Standardgateway . . . . . . . . . : 10.0.2.2
+   DHCP-Server . . . . . . . . . . . : 10.0.2.2
+   DHCPv6-IAID . . . . . . . . . . . : 101187623
+   DHCPv6-Client-DUID. . . . . . . . : 00-01-00-01-2A-56-07-A5-08-00-27-F6-6D-BB
+   DNS-Server  . . . . . . . . . . . : 10.10.10.2
+                                       10.10.10.3
+   NetBIOS Åber TCP/IP . . . . . . . : Aktiviert
+
+Ping wird ausgefÅhrt fÅr lerneprogrammieren.de [85.13.133.184] mit 32 Bytes Daten:
+Antwort von 85.13.133.184: Bytes=32 Zeit=30ms TTL=47
+Antwort von 85.13.133.184: Bytes=32 Zeit=30ms TTL=47
+Antwort von 85.13.133.184: Bytes=32 Zeit=30ms TTL=47
+Antwort von 85.13.133.184: Bytes=32 Zeit=30ms TTL=47
+
+Ping-Statistik fÅr 85.13.133.184:
+    Pakete: Gesendet = 4, Empfangen = 4, Verloren = 0
+    (0% Verlust),
+Ca. Zeitangaben in Millisek.:
+    Minimum = 30ms, Maximum = 30ms, Mittelwert = 30ms
+
+Routenverfolgung zu lerneprogrammieren.de [85.13.133.184]
+Åber maximal 30 Hops:
+
+  1    <1 ms    <1 ms    <1 ms  
